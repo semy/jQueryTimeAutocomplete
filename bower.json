@@ -13,9 +13,7 @@
     "jquery",
     "autocomplete",
     "plugins",
-    "time",
-    "time",
-    "autocomplete"
+    "time"
   ],
   "homepage": "https://github.com/semy/jQueryTimeAutocomplete",
   "moduleType": [
